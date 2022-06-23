@@ -1,4 +1,4 @@
-import stuffs from './stuffs/stuffs.js';
+import svgUI from './SvgUI/SvgUI.js';
 
 // stage registration
 const Stage = stuffs.stage;
